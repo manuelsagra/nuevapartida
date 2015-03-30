@@ -1,0 +1,33 @@
+body > footer {
+	background: $psDark;
+	color: #fff;
+	position: relative;
+	top: -((2 * $border) + $footerHeight);
+	div {		
+		padding: $border 0;
+		text-align: center;
+		font-size: 0.8em;
+		line-height: $footerHeight;
+		height: $footerHeight;
+	}
+	a {
+		color: #fff;
+	}
+	a:hover {
+		text-decoration: underline;
+	}
+	.cc {
+		background: #fff;
+		color: $psDark;
+		padding: 0.1em 0.4em;
+		margin-right: 0.8em;
+		border-radius: 3px;
+		font-weight: bold;
+	}
+	.separador {
+		margin: 0 1em;
+	}
+	.full {
+		display: none;
+	}
+}

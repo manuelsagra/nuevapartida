@@ -1,0 +1,65 @@
+html {
+	height: 100%;
+}
+body {
+	background: $bgColor no-repeat;
+	color: $color;
+	font-size: $fontSize;
+	font-family: $font;
+	padding: 0;
+	height: 100%;
+}
+::-moz-selection {
+	background: $ps;
+	color: #fff;
+	text-shadow: none;
+}
+::selection {
+	background: $ps;
+	color: #fff;
+	text-shadow: none;
+}
+a {
+	color: $ps;
+	text-decoration: none;
+	transition-property: background-color, color;
+	transition-duration: 0.4s;
+	&:hover {
+		color: $hoverColor;
+	}
+}
+hr {
+	margin: $spacing 0;
+	border: 0;
+	height: 1px;
+	background: $color;
+	color: $color;	
+}
+p {
+	line-height: 1.4em;
+	margin: $spacing 0;
+}
+img {
+	vertical-align: middle;
+}
+iframe {
+	border: 0;
+}
+ul {
+	list-style: square;
+}
+#full {
+	min-height: 100%;
+	box-sizing: border-box;
+	padding-bottom: (2 * $border) + $footerHeight;
+}
+.wrapper {
+	position: relative;
+	width: $wrapper;
+	max-width: $maxWrapper;
+	margin: 0 auto;
+}
+.wrapper.full {
+	width: 100%;
+	max-width: 100%;
+}

@@ -1,0 +1,47 @@
+Items
+	Juegos,juegos
+		Versiones,versiones
+			Ediciones,ediciones
+	Plataformas
+	Compañías,companias
+	Artículos,articulos
+	Noticias,articulos
+	Regiones
+	Géneros
+	Sagas,sagas
+Relaciones
+	Compañías con items
+		Publicado por
+		Desarrollado por
+	Compañías con compañías
+		Se cambió de nombre a
+		Se fusionó con
+	Juegos con juegos
+		Juego de un recopilatorio
+Metadata
+	URL
+		GameFAQs
+		MobyGames
+		RF Generation
+		Wikipedia
+	Imagen
+		Captura de pantalla
+		Portada
+		Contraportada
+		Lomo
+		Spinecard
+		Foto
+		Manual
+	Vídeos
+		Anuncios
+		Intros
+		Partidas
+	Atributos
+		Catálogo
+		Código de barras
+		Curiosidad
+Tags
+	Ediciones especiales
+	Ediciones exclusivas
+	Series económicas
+	Formatos especiales

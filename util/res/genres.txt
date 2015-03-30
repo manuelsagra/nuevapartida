@@ -1,0 +1,98 @@
+Acción
+	Beat'em up
+	Entorno abierto
+	Habilidad
+	Lucha
+	Minijuegos
+	Película interactiva
+	Pinball
+	Pistola
+	Plataformas
+	Primera persona
+	Puzle
+	Run and gun
+	Sobre raíles
+	Shoot'em up
+	Tercera persona
+Aventura
+	Gráfica
+	Horror
+	Novela visual
+	Texto
+Conducción
+	4x4
+	Arcade
+	Camiones
+	Fórmula
+	Futurista
+	Karts
+	Motos
+	Rally
+	Turismos
+	Vehículos acuáticos
+Deportes
+	Acuáticos
+	Baloncesto
+	Billar
+	Bolos
+	Boxeo
+	Béisbol
+	Caza
+	Ciclismo
+	Cricket
+	Fútbol
+	Fútbol americano
+	Fútbol australiano
+	Golf
+	Hípica
+	Hockey sobre hielo
+	Manager
+	Nieve
+	Olímpicos
+	Patinaje
+	Pesca
+	Rugby
+	Skate
+	Tenis
+	Voleibol
+	Wrestling
+Estrategia
+	Construcción
+	Tiempo real
+	Turnos
+Musical
+	Baile
+	Composición
+	Ritmo
+Otros
+	Adultos
+	Apuestas
+	Cómic digital
+	Educativo
+	Fitness
+	Multimedia
+	Utilidades
+Rol
+	Clásico
+	Masivo
+	Japonés
+	Táctico
+Simulación
+	Barcos
+	Deportiva
+	Espacial
+	Negocios
+	Robots
+	Social
+	Submarinismo
+	Submarinos
+	Tanques
+	Trenes
+	Vuelo
+Tablero
+	Ajedrez
+	Cartas
+	Juego de mesa
+	Mahjong
+	Preguntas
+	Shanghai

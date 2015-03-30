@@ -1,0 +1,46 @@
+input, textarea, select {
+	font-family: $font;
+}
+textarea {
+	resize: vertical;
+}
+input[type="text"], input[type="search"], select {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 0.1em 0.5em;
+	line-height: 1.5em;
+	height: 2em;
+	vertical-align: middle;
+	background: #fff;
+}
+input[type="submit"], input[type="button"] {
+	border: 0;
+	color: #fff;
+	padding: 0.2em 1.4em;
+	font-weight: bold;
+	box-sizing: border-box;
+	line-height: 1.6em;
+	vertical-align: middle;
+	&:hover {
+		background: $hoverColor;
+	}
+}
+#yearsSlider {
+	margin: 0.5em auto;
+	width: 70%;
+	float: left;
+	position: relative;
+	top: -0.2em;
+	div {
+		width: 90%;
+		margin: 0 auto;
+	}
+}
+.year {
+	width: 15%;
+	input {
+		font-size: 0.8em;
+		border: 1px solid #ccc;
+		text-align: center;
+	}
+}

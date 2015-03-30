@@ -1,0 +1,66 @@
+África
+	Sudáfrica
+América
+	Brasil
+	Canadá
+	Chile
+	Colombia
+	Estados Unidos
+	México
+Asia
+	Arabia Saudí
+	China
+	Corea del Sur
+	Emiratos Árabes Unidos
+	Hong Kong
+	India
+	Indonesia
+	Israel
+	Japón
+	Macao
+	Malasia
+	Singapur
+	Tailandia
+	Taiwan
+Europa
+	Alemania
+	Austria
+	Bélgica
+	Bulgaria
+	Croacia
+	Chipre
+	Dinamarca
+	Eslovaquia
+	Eslovenia
+	España
+	Estonia
+	Finlandia
+	Francia
+	Grecia
+	Holanda
+	Hungría
+	Irlanda
+	Islandia
+	Italia
+	Letonia
+	Lituania
+	Luxemburgo
+	Macedonia
+	Malta
+	Noruega
+	Polonia
+	Portugal
+	Reino Unido
+	República Checa
+	Rumanía
+	Serbia
+	Suecia
+	Suiza
+	Ucrania
+Oceanía
+	Australia
+	Nueva Zelanda
+Otra Región
+	Internacional
+	Rusia
+	Turquía

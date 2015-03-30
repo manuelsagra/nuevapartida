@@ -1,0 +1,169 @@
+Action &gt; Arcade,Acción
+Action &gt; Beat-'Em-Up,Beat'em up
+Action &gt; Fighting &gt; 2D,Lucha
+Action &gt; Fighting &gt; 3D,Lucha
+Action &gt; Fighting &gt; Wrestling,Lucha
+Action &gt; Flight,Vuelo
+Action &gt; General,Acción
+Action &gt; Pinball,Pinball
+Action &gt; Platformer &gt; 2D,Plataformas
+Action &gt; Platformer &gt; 3D,Plataformas
+Action &gt; Rhythm &gt; Music,Ritmo
+Action &gt; Shooter &gt; First-Person &gt; Fantasy,Primera persona
+Action &gt; Shooter &gt; First-Person &gt; Historic,Primera persona
+Action &gt; Shooter &gt; First-Person &gt; Modern,Primera persona
+Action &gt; Shooter &gt; First-Person &gt; Sci-Fi,Primera persona
+Action &gt; Shooter &gt; First-Person &gt; Tactical &gt; Historic,Primera persona
+Action &gt; Shooter &gt; First-Person &gt; Tactical &gt; Modern,Primera persona
+Action &gt; Shooter &gt; Light Gun,Pistola
+Action &gt; Shooter &gt; Rail,Sobre raíles
+Action &gt; Shooter &gt; Scrolling,Run and gun
+Action &gt; Shooter &gt; Static,Run and gun
+Action &gt; Shooter &gt; Third-Person &gt; Fantasy,Tercera persona
+Action &gt; Shooter &gt; Third-Person &gt; Historic,Tercera persona
+Action &gt; Shooter &gt; Third-Person &gt; Modern,Tercera persona
+Action &gt; Shooter &gt; Third-Person &gt; Sci-Fi,Tercera persona
+Action &gt; Shooter &gt; Third-Person &gt; Tactical &gt; Historic,Tercera persona
+Action &gt; Shooter &gt; Third-Person &gt; Tactical &gt; Modern,Tercera persona
+Action Adventure &gt; Fantasy,Aventura
+Action Adventure &gt; General,Aventura
+Action Adventure &gt; Historic,Aventura
+Action Adventure &gt; Horror,Horror
+Action Adventure &gt; Modern,Aventura
+Action Adventure &gt; Sci-Fi,Aventura
+Action Adventure &gt; Survival,Horror
+Adventure &gt; First-Person &gt; Fantasy,Aventura
+Adventure &gt; First-Person &gt; Modern,Aventura
+Adventure &gt; First-Person &gt; Sci-Fi,Aventura
+Adventure &gt; General,Aventura
+Adventure &gt; Interactive Movie,Película interactiva
+Adventure &gt; Text,Texto
+Adventure &gt; Third-Person &gt; Fantasy,Aventura
+Adventure &gt; Third-Person &gt; Modern,Aventura
+Adventure &gt; Third-Person &gt; Sci-Fi,Aventura
+Driving &gt; Car Combat,Arcade
+Driving &gt; Demolition Derby,Arcade
+Driving &gt; General,Conducción
+Driving &gt; Mission-based,Conducción
+Driving &gt; Racing &gt; Arcade,Arcade
+Driving &gt; Racing &gt; Drag,Arcade
+Driving &gt; Racing &gt; Formula One,Fórmula
+Driving &gt; Racing &gt; Futuristic,Futurista
+Driving &gt; Racing &gt; GT / Street,Turismos
+Driving &gt; Racing &gt; Kart,Karts
+Driving &gt; Racing &gt; Motorcycle &gt; Motocross,Motos
+Driving &gt; Racing &gt; Motorcycle &gt; Street,Motos
+Driving &gt; Racing &gt; On-foot,Conducción
+Driving &gt; Racing &gt; Other,Conducción
+Driving &gt; Racing &gt; Rally / Offroad,Rally
+Driving &gt; Racing &gt; Snow / Water,Nieve
+Driving &gt; Racing &gt; Stock Car,Conducción
+Driving &gt; Racing &gt; Truck,Camiones
+Hardware &gt; Console,EXCLUDE
+Hardware &gt; General,EXCLUDE
+Miscellaneous &gt; Board Games,Juego de mesa
+Miscellaneous &gt; Card Battle,Cartas
+Miscellaneous &gt; Compilation,Recopilatorio
+Miscellaneous &gt; Demo Disc,Otros
+Miscellaneous &gt; Edutainment,Educativo
+Miscellaneous &gt; Exercise / Fitness,Fitness
+Miscellaneous &gt; General,Otros
+Miscellaneous &gt; Music Maker,Composición
+Miscellaneous &gt; Parlor &gt; Billiards,Billar
+Miscellaneous &gt; Parlor &gt; Gambling,Apuestas
+Miscellaneous &gt; Parlor &gt; Pinball,Pinball
+Miscellaneous &gt; Party,Tablero
+Miscellaneous &gt; Rhythm &gt; Dancing,Baile
+Miscellaneous &gt; Rhythm &gt; Music,Ritmo
+Miscellaneous &gt; Trivia / Game Show,Preguntas
+Miscellaneous &gt; Videos,Multimedia
+Miscellaneous &gt; Virtual Life,Social
+Miscellaneous &gt; Web Browser,Utilidades
+Puzzle &gt; Action,Puzle
+Puzzle &gt; General,Puzle
+Puzzle &gt; Hidden Object,Puzle
+Puzzle &gt; Logic,Puzle
+Puzzle &gt; Matching,Puzle
+Puzzle &gt; Stacking,Puzle
+Role-Playing &gt; Action RPG,Japonés
+Role-Playing &gt; Console-style RPG,Japonés
+Role-Playing &gt; First-Person,Clásico
+Role-Playing &gt; General,Rol
+Role-Playing &gt; Massively Multiplayer Online &gt; Fantasy,Masivo
+Role-Playing &gt; Massively Multiplayer Online &gt; Historic,Masivo
+Role-Playing &gt; Massively Multiplayer Online &gt; Modern,Masivo
+Role-Playing &gt; Massively Multiplayer Online &gt; Sci-Fi,Masivo
+Role-Playing &gt; PC-style RPG,Clásico
+Role-Playing &gt; Third-Person,Rol
+Simulation &gt; Flight &gt; Civilian Plane,Vuelo
+Simulation &gt; Flight &gt; Helicopter,Vuelo
+Simulation &gt; Flight &gt; Modern Jet,Vuelo
+Simulation &gt; Flight &gt; WWI,Vuelo
+Simulation &gt; Flight &gt; WWII,Vuelo
+Simulation &gt; General,Simulación
+Simulation &gt; Sci-Fi &gt; Futuristic Jet,Vuelo
+Simulation &gt; Sci-Fi &gt; Futuristic Sub,Submarinos
+Simulation &gt; Sci-Fi &gt; Large Spaceship,Espacial
+Simulation &gt; Sci-Fi &gt; Mech,Robots
+Simulation &gt; Sci-Fi &gt; Small Spaceship,Espacial
+Simulation &gt; Ship,Barcos
+Simulation &gt; Tank,Tanques
+Simulation &gt; Train,Trenes
+Sports &gt; Alternative &gt; Biking,Ciclismo
+Sports &gt; Alternative &gt; Bowling,Bolos
+Sports &gt; Alternative &gt; Cricket,Cricket
+Sports &gt; Alternative &gt; Futuristic,Deportes
+Sports &gt; Alternative &gt; Horse Racing,Hípica
+Sports &gt; Alternative &gt; Other,Deportes
+Sports &gt; Alternative &gt; Rugby,Rugby
+Sports &gt; Alternative &gt; Skateboarding,Skate
+Sports &gt; Alternative &gt; Skating,Patinaje
+Sports &gt; Alternative &gt; Skiing,Nieve
+Sports &gt; Alternative &gt; Snowboarding,Nieve
+Sports &gt; Alternative &gt; Surfing,Acuáticos
+Sports &gt; Alternative &gt; Wakeboarding,Acuáticos
+Sports &gt; General,Deportes
+Sports &gt; Individual &gt; Golf &gt; Sim,Golf
+Sports &gt; Nature &gt; Fishing,Pesca
+Sports &gt; Nature &gt; Hunting,Caza
+Sports &gt; Olympic Sports,Olímpicos
+Sports &gt; Team &gt; Baseball &gt; Sim,Béisbol
+Sports &gt; Team &gt; Basketball &gt; Sim,Baloncesto
+Sports &gt; Team &gt; Cricket,Cricket
+Sports &gt; Team &gt; Football &gt; Sim,Deportiva
+Sports &gt; Team &gt; Rugby,Rubgy
+Sports &gt; Team &gt; Soccer &gt; Management,Deportiva
+Sports &gt; Traditional &gt; Baseball &gt; Arcade,Béisbol
+Sports &gt; Traditional &gt; Baseball &gt; Management,Deportiva
+Sports &gt; Traditional &gt; Baseball &gt; Sim,Deportiva
+Sports &gt; Traditional &gt; Basketball &gt; Arcade,Baloncesto
+Sports &gt; Traditional &gt; Basketball &gt; Sim,Deportiva
+Sports &gt; Traditional &gt; Boxing,Boxeo
+Sports &gt; Traditional &gt; Football &gt; Arcade,Fútbol americano
+Sports &gt; Traditional &gt; Football &gt; Management,Deportiva
+Sports &gt; Traditional &gt; Football &gt; Sim,Deportiva
+Sports &gt; Traditional &gt; Golf &gt; Arcade,Golf
+Sports &gt; Traditional &gt; Golf &gt; Sim,Deportiva
+Sports &gt; Traditional &gt; Ice Hockey &gt; Arcade,Hockey sobre hielo
+Sports &gt; Traditional &gt; Ice Hockey &gt; Management,Deportiva
+Sports &gt; Traditional &gt; Ice Hockey &gt; Sim,Deportiva
+Sports &gt; Traditional &gt; Soccer &gt; Arcade,Fútbol
+Sports &gt; Traditional &gt; Soccer &gt; Management,Deportiva
+Sports &gt; Traditional &gt; Soccer &gt; Sim,Deportiva
+Sports &gt; Traditional &gt; Tennis,Tenis
+Sports &gt; Traditional &gt; Volleyball,Voleibol
+Strategy &gt; Breeding/Constructing,Construcción
+Strategy &gt; City Building &gt; Modern,Construcción
+Strategy &gt; General,Estrategia
+Strategy &gt; Real-Time &gt; Fantasy,Tiempo real
+Strategy &gt; Real-Time &gt; Historic,Tiempo real
+Strategy &gt; Real-Time &gt; Military,Tiempo real
+Strategy &gt; Real-Time &gt; MOBA,Tiempo real
+Strategy &gt; Real-Time &gt; Modern,Tiempo real
+Strategy &gt; Real-Time &gt; Sci-Fi,Tiempo real
+Strategy &gt; Turn-Based &gt; Fantasy,Turnos
+Strategy &gt; Turn-Based &gt; Historic,Turnos
+Strategy &gt; Turn-Based &gt; Modern,Turnos
+Strategy &gt; Turn-Based &gt; Sci-Fi,Turnos
+Strategy &gt; Tycoon,Negocios
+Strategy &gt; Wargame &gt; Turn-Based,Turnos

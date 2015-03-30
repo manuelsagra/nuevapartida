@@ -1,0 +1,50 @@
+@media only screen and (min-width: $mediumWrapper + $wrapperAir) {
+	header.head {
+		padding: $spacing 0;
+		h1 {
+			width: 30%;
+		}
+		ul {
+			display: block;
+			top: 0;
+			position: relative;
+		}
+		li {
+			float: left;
+			a {
+				background: transparent;
+				padding: 0 $spacing;
+			}
+		}
+	}
+	.menu {
+		display: none;
+	}
+	.wrapper.full {
+		width: $wrapper;
+		max-width: $maxWrapper;
+	}
+	.cover {
+		float: left;
+		width: 30%;
+	}
+	.info {
+		float: right;
+		width: 70%;
+	}
+	dl.column {
+		box-sizing: border-box;
+		width: 50%;
+		float: left;
+		margin: 0;
+		padding: 1em;
+	}
+	ul.items li {
+		width: 20%;
+	}
+	body > footer {
+		.full {
+			display: inline;
+		}
+	}
+}

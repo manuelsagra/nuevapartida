@@ -1,0 +1,10 @@
+util/bin
+util/lib
+util/*.log*
+util/.classpath
+util/.project
+.metadata
+RemoteSystemsTempFiles
+.recommenders
+hs_err*
+web/barcode/cache/*.png

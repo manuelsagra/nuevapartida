@@ -1,0 +1,61 @@
+Australia,Australia
+Austria,Austria
+Belgium,Bélgica
+Brazil,Brasil
+Bulgaria,Bulgaria
+Canada,Canadá
+Chile,Chile
+China,China
+Colombia,Colombia
+Croatia,Croacia
+Cyprus,Chipre
+Czech Republic,República Checa
+Denmark,Dinamarca
+Estonia,Estonia
+Finland,Finlandia
+France,Francia
+Germany,Alemania
+Greece,Grecia
+Hong Kong,Hong Kong
+Hungary,Hungría
+Iceland,Islandia
+Ireland,Irlanda
+India,India
+Indonesia,Indonesia
+Israel,Israel
+Italy,Italia
+Japan,Japón
+Latvia,Letonia
+Lithuania,Lituania
+Luxembourg,Luxemburgo
+Macau,Macao
+Macedonia,Macedonia
+Malaysia,Malasia
+Malta,Malta
+Mexico,México
+New Zealand,Nueva Zelanda
+Norway,Noruega
+Other,Otra Región
+Poland,Polonia
+Portugal,Portugal
+Romania,Rumanía
+Russia,Rusia
+Saudi Arabia,Arabia Saudí
+Serbia,Serbia
+Singapore,Singapur
+Slovakia,Eslovaquia
+Slovenia,Eslovenia
+South Africa,Sudáfrica
+South Korea,Corea del Sur
+Spain,España
+Sweden,Suecia
+Switzerland,Suiza
+Taiwan,Taiwan
+Thailand,Tailandia
+The Netherlands,Holanda
+Turkey,Turquía
+Ukraine,Ucrania
+United Arab Emirates,Emiratos Árabes Unidos
+United Kingdom,Reino Unido
+United States,Estados Unidos
+Worldwide,Internacional

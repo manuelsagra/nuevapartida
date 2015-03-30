@@ -1,0 +1,46 @@
+.hidden {
+	display: none !important;
+	visibility: hidden;
+}
+.clearfix:before, .clearfix:after {
+	content: " ";
+	display: table;
+}
+.clearfix:after {
+	clear: both;
+}
+.clearfix {
+	*zoom: 1;
+}
+.alignRight {
+	text-align: right;
+}
+.alignLeft {
+	text-align: left;
+}
+.alignCenter {
+	text-align: center;
+}
+.noMargin {
+	margin: 0 !important;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.message {
+	padding: 1em;
+	background: #fff;
+}
+#overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, .5) url(../img/loading.gif) center center no-repeat;
+	z-index: 10000;
+	cursor: wait;
+}

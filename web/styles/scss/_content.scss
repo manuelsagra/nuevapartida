@@ -1,0 +1,440 @@
+article header, .portlet header {
+	background: $psDark;
+	padding: $spacing/2 0;
+	* {
+		color: #fff;
+	}
+}
+article header {
+	h1 {
+		font-size: 1.8em;
+		line-height: 1.4em;
+		margin: 0;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow: hidden;
+	}
+	h2 {
+		font-size: 1em;
+		font-weight: normal;
+		line-height: 1.4em;
+		margin: 0;
+		color: #ccc;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow: hidden;
+	}
+}
+article.versiones header, article.ediciones header {
+	position: relative;
+	h1 {
+		width: 90%;
+	}
+	a.format {
+		display: block;
+		position: absolute;
+		right: 0;
+		top: 0;
+		width: 64px;
+		height: 100%;
+		background-size: auto 100%;
+	}
+	&.playstation a.format {
+		background: url(../img/platforms/ps1.png) center center no-repeat;		
+	}
+	&.playstation-2 a.format {
+		background: url(../img/platforms/ps2.png) center center no-repeat;		
+	}
+	&.playstation-3 a.format {
+		background: url(../img/platforms/ps3.png) center center no-repeat;		
+	}
+	&.playstation-4 a.format {
+		background: url(../img/platforms/ps4.png) center center no-repeat;		
+	}
+	&.psp a.format {
+		background: url(../img/platforms/psp.png) center center no-repeat;		
+	}
+	&.ps-vita a.format {
+		background: url(../img/platforms/psvita.png) center center no-repeat;		
+	}
+}
+.cover img {
+	max-width: 100%;
+	width: 100%;
+}
+ul.tags {
+	background: $psLight;
+	list-style: none;
+	margin: 0;
+	padding: $spacing $spacing 0.1em;
+	li {
+		float: left;
+	}
+	a {
+		display: block;
+		float: left;
+		background: $psDark;
+		color: #fff;
+		padding: 0.4em 1em;
+		margin: 0 0.5em $spacing 0;
+	}
+	a:hover {
+		background: $hoverColor;
+	}
+}
+.info {
+	background: #fff;
+}
+.filters {
+	background: #fff;
+}
+.portlet, .column {
+	box-sizing: border-box;
+	position: relative;
+	display: block;
+	header {
+		padding: 0.2em 1em;
+		margin: 0;
+		h1 {
+			font-size: 1.1em;
+		}
+	}
+	dl {
+		padding: 0;
+		margin: 1em;
+	}
+	dt {
+		margin: 0 0 0.2em;
+		font-weight: bold;
+	}
+	dd {
+		margin: 0 0 1em;
+	}
+	dl dd:last-child {
+		margin: 0;
+	}
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	footer {
+		background: #ddd;
+		text-align: right;
+		padding: 0.6em 1em;
+		color: #666;
+		font-style: italic;
+	}
+}
+ul.items {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	li {
+		display: block;
+		float: left;
+		position: relative;
+		width: 50%;
+		border: 1px solid transparent;
+		border-left: 0;
+		border-top: 0;
+		box-sizing: border-box;
+		&:after {
+			content: '';
+			display: block;
+			margin-top: 100%;
+		}
+	}
+	a {
+		display: block;
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background-size: cover;
+		background-position: center center;
+		&:hover {
+			span {
+				background: $hoverColor;
+				text-overflow: normal;
+				white-space: normal;
+				opacity: 0.9;
+			}
+		}
+	}
+	span {
+		transition-property: opacity, background-color;
+		transition-duration: .5s;
+		display: block;
+		position: absolute;
+		width: 100%;
+		bottom: 0;
+		opacity: 0.75;
+		background: $psDark;
+		color: #fff;
+		text-shadow: 1px 1px 1px #000;
+		font-size: 0.9em;
+		padding: 0.2em 0.6em;
+		box-sizing: border-box;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow: hidden;
+	}
+}
+.references {
+	a {
+		display: block;
+		position: relative;
+		background-color: #fff;
+		background-position: center left;
+		background-repeat: no-repeat;
+		background-size: auto 100%;		
+		margin-top: 1px;
+		padding: 0 0 0 40px;
+		height: 32px;
+	}
+	span {
+		display: block;
+	}
+	span.name {
+		font-weight: bold;
+		width: 90%;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow: hidden;
+	}
+	span.data {
+		font-size: 0.7em;
+		color: #666;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow: hidden;
+	}
+	span.data strong {
+		color: #333;
+	}
+	span.value {
+		position: absolute;
+		top: 0;
+		right: 0;
+		line-height: 32px;
+		background: $ps;
+		color: #fff;
+		width: 8%;
+		font-weight: bold;
+		text-align: center;
+	}
+	a:hover {
+		background-color: $hoverColor;
+		span, strong {
+			color: #fff;
+		}
+	}
+}
+.charts {
+	background: #fff;
+}
+#years {
+	float: left;
+	width: 400px;
+}
+#platforms, #regions, #genres {
+	float: left;
+	width: 200px;
+}
+a.more {
+	background: $psLight;
+	color: #fff;
+	display: block;
+	line-height: 3em;
+	text-align: center;
+	&:hover {
+		background: $hoverColor;
+	}
+}
+.region {
+	padding-left: 22px;
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+.region.alemania {
+	background-image: url(../img/region/de.png);
+}
+.region.arabia-saudi {
+	background-image: url(../img/region/sa.png);
+}
+.region.australia {
+	background-image: url(../img/region/au.png);
+}
+.region.austria {
+	background-image: url(../img/region/at.png);
+}
+.region.belgica {
+	background-image: url(../img/region/be.png);
+}
+.region.brasil {
+	background-image: url(../img/region/br.png);
+}
+.region.bulgaria {
+	background-image: url(../img/region/bg.png);
+}
+.region.canada {
+	background-image: url(../img/region/ca.png);
+}
+.region.chile {
+	background-image: url(../img/region/cl.png);
+}
+.region.china {
+	background-image: url(../img/region/cn.png);
+}
+.region.chipre {
+	background-image: url(../img/region/cy.png);
+}
+.region.colombia {
+	background-image: url(../img/region/co.png);
+}
+.region.corea-del-sur {
+	background-image: url(../img/region/kr.png);
+}
+.region.croacia {
+	background-image: url(../img/region/hr.png);
+}
+.region.dinamarca {
+	background-image: url(../img/region/dk.png);
+}
+.region.emiratos-arabes-unidos {
+	background-image: url(../img/region/ae.png);
+}
+.region.eslovaquia {
+	background-image: url(../img/region/sk.png);
+}
+.region.eslovenia {
+	background-image: url(../img/region/si.png);
+}
+.region.estonia {
+	background-image: url(../img/region/ee.png);
+}
+.region.espana {
+	background-image: url(../img/region/es.png);
+}
+.region.estados-unidos {
+	background-image: url(../img/region/us.png);
+}
+.region.europa {
+	background-image: url(../img/region/europeanunion.png);
+}
+.region.finlandia {
+	background-image: url(../img/region/fi.png);
+}
+.region.grecia {
+	background-image: url(../img/region/gr.png);
+}
+.region.francia {
+	background-image: url(../img/region/fr.png);
+}
+.region.holanda {
+	background-image: url(../img/region/nl.png);
+}
+.region.hong-kong {
+	background-image: url(../img/region/hk.png);
+}
+.region.hungria {
+	background-image: url(../img/region/hu.png);
+}
+.region.india {
+	background-image: url(../img/region/in.png);
+}
+.region.indonesia {
+	background-image: url(../img/region/id.png);
+}
+.region.irlanda {
+	background-image: url(../img/region/ie.png);
+}
+.region.islandia {
+	background-image: url(../img/region/is.png);
+}
+.region.israel {
+	background-image: url(../img/region/il.png);
+}
+.region.italia {
+	background-image: url(../img/region/it.png);
+}
+.region.japon {
+	background-image: url(../img/region/jp.png);
+}
+.region.letonia {
+	background-image: url(../img/region/lv.png);
+}
+.region.lituania {
+	background-image: url(../img/region/lt.png);
+}
+.region.luxemburgo {
+	background-image: url(../img/region/lu.png);
+}
+.region.macao {
+	background-image: url(../img/region/mo.png);
+}
+.region.macedonia {
+	background-image: url(../img/region/mk.png);
+}
+.region.malasia {
+	background-image: url(../img/region/my.png);
+}
+.region.malta {
+	background-image: url(../img/region/mt.png);
+}
+.region.mexico {
+	background-image: url(../img/region/mx.png);
+}
+.region.noruega {
+	background-image: url(../img/region/no.png);
+}
+.region.nueva-zelanda {
+	background-image: url(../img/region/nz.png);
+}
+.region.polonia {
+	background-image: url(../img/region/pl.png);
+}
+.region.portugal {
+	background-image: url(../img/region/pt.png);
+}
+.region.republica-checa {
+	background-image: url(../img/region/cz.png);
+}
+.region.rumania {
+	background-image: url(../img/region/ro.png);
+}
+.region.reino-unido {
+	background-image: url(../img/region/gb.png);
+}
+.region.rusia {
+	background-image: url(../img/region/ru.png);
+}
+.region.serbia {
+	background-image: url(../img/region/rs.png);
+}
+.region.singapur {
+	background-image: url(../img/region/sg.png);
+}
+.region.sudafrica {
+	background-image: url(../img/region/za.png);
+}
+.region.suecia {
+	background-image: url(../img/region/se.png);
+}
+.region.suiza {
+	background-image: url(../img/region/ch.png);
+}
+.region.tailandia {
+	background-image: url(../img/region/th.png);
+}
+.region.taiwan {
+	background-image: url(../img/region/tw.png);
+}
+.region.turquia {
+	background-image: url(../img/region/tr.png);
+}
+.region.ucrania {
+	background-image: url(../img/region/ua.png);
+}

@@ -1,0 +1,14 @@
+3DO,3do
+Amiga CD32,amiga-cd32
+CDTV,cdtv
+CD-i,cd-i
+FM Towns Marty,fmtowns
+Jaguar CD,jaguar
+Mega CD,sega-cd
+Neo Geo CD,neo-geo-cd
+PC-FX,pc-fx
+Pippin,pippin
+Playdia,playdia
+PlayStation,playstation
+Saturn,sega-saturn
+PC Engine CD,turbografx-cd

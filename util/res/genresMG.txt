@@ -1,0 +1,39 @@
+Action,Acción
+Adventure,Aventura
+Educational,Educativo
+Racing&nbsp;/&nbsp;Driving,Conducción
+Role-Playing&nbsp;(RPG),Rol
+Simulation,Simulación
+Sports,Deportes
+Strategy,Estrategia
+Pinball,Pinball
+Fighting,Lucha
+Puzzle-Solving,Puzle
+Platform,Plataformas
+Interactive Movie,Película interactiva
+Visual Novel,Novela visual
+Basketball,Baloncesto
+Boxing,Boxeo
+Baseball,Béisbol
+Soccer / Football (European),Fútbol
+Football (American),Fútbol americano
+Golf,Golf
+Managerial,Manager
+Snowboarding / Skiing,Nieve
+Olympiad,Olímpicos
+Rugby,Rugby
+Tennis,Tenis
+Rhythm / Music,Musical
+Casino,Apuestas
+Turn-based,Turnos
+Real-Time,Tiempo real
+Managerial,Negocios
+Fishing,Pesca
+Flight,Vuelo
+Train,Trenes
+Tank,Tanques
+Compilation / Shovelware,Recopilatorio
+Adult,Adultos
+Board / Party Game,Tablero
+Pool / Snooker,Billar
+Cards,Cartas
